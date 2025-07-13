@@ -1,15 +1,5 @@
 # Indian-Political-Analysis-Related-to-Tax-Scheme-in-India
 Designed and implemented an advanced-level MySQL-based analytical database project to study the impact of various Indian tax schemes (GST, Income Tax, etc.) on public sentiment, political party performance, and revenue outcomes. The project involved data modeling, relationship mapping, and advanced SQL queries for multi-dimensional analysis.
-🧠 Key Highlights:
-Created a normalized relational database with 7 interlinked tables, covering tax schemes, political parties, state-wise opinions, voting trends, and public feedback.
-
-Wrote 40+ SQL queries ranging from basic data retrieval to advanced analytics (rolling averages, sentiment ratios, correlation analysis, CTEs, and window functions).
-
-Built an ER diagram to visualize entity relationships and support schema design.
-
-Performed state-level insights, such as identifying schemes with high public support but poor implementation or evaluating which party’s policies led to higher tax revenues.
-
-Applied real-world data modeling concepts, making the project suitable for political research, journalism dashboards, or governance consulting tools.
 
 Skills Demonstrated:
 Relational Database Design (Normalization, ERD)
