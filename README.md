@@ -1,0 +1,2 @@
+# Indian-Political-Analysis-Related-to-Tax-Scheme-in-India
+Designed and implemented an advanced-level MySQL-based analytical database project to study the impact of various Indian tax schemes (GST, Income Tax, etc.) on public sentiment, political party performance, and revenue outcomes. The project involved data modeling, relationship mapping, and advanced SQL queries for multi-dimensional analysis.
